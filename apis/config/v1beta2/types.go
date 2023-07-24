@@ -196,3 +196,5 @@ type NodeResourceTopologyMatchArgs struct {
 
 // PreemptionTolerationArgs reuses DefaultPluginArgs.
 type PreemptionTolerationArgs schedulerconfigv1beta2.DefaultPreemptionArgs
+
+type ProvaPluginArgs struct {}

@@ -238,3 +238,5 @@ type NetworkOverheadArgs struct {
 	// The NetworkTopology CRD name
 	NetworkTopologyName string
 }
+
+type ProvaPluginArgs struct {}
