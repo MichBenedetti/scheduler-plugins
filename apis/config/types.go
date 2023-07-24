@@ -239,4 +239,6 @@ type NetworkOverheadArgs struct {
 	NetworkTopologyName string
 }
 
-type ProvaPluginArgs struct {}
+/*type ProvaPluginArgs struct {
+	metav1.TypeMeta
+}*/

@@ -237,4 +237,6 @@ type NetworkOverheadArgs struct {
 	NetworkTopologyName *string `json:"networkTopologyName,omitempty"`
 }
 
-type ProvaPluginArgs struct {}
+/*type ProvaPluginArgs struct {
+	metav1.TypeMeta
+}*/
